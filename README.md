@@ -14,7 +14,9 @@ npm install
 npm run dev
 ```
 
-Open the local URL printed by Vite (usually <http://localhost:5173>).
+## Deployment
+
+Vercel Link: https://ticket-qr-code-generator-worker-ten.vercel.app/
 
 ## Available commands
 
